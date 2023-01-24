@@ -1,0 +1,3 @@
+org\selenide\automation\googleSearch\steps\HomePageSteps.class
+org\selenide\automation\googleSearch\pom\HomePage.class
+org\selenide\runner\Testrunner.class
